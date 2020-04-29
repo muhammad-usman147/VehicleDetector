@@ -17,9 +17,9 @@ This in section I'll try to create a Custom HarCascade Classifier for my images,
 and the NEGATIVE folder will contains images except the images of objects in it.. 
 
 <h6> POSITIVE IMAGES </h6>
-<img src = 'n/n21.jpg' />
-<img src = 'n/n21.jpg' />
+<img src = 'n/n1.jpg' />
+<img src = 'n/n2.jpg' />
 
 <h6> POSITIVE IMAGES </h6>
 <img src = 'p/pos21.jpg' />
-<img src = 'p/pos1.jpg' />
+<img src = 'p/pos0.jpg' />
